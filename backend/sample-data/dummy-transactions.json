@@ -1,0 +1,33 @@
+{
+  "description": "Sample expense/income rows for documentation. The seed script generates similar data for demo@example.com.",
+  "transactions": [
+    {
+      "type": "income",
+      "amount": 3200,
+      "category": "Salary",
+      "description": "Monthly salary",
+      "paymentMethod": "Transfer"
+    },
+    {
+      "type": "expense",
+      "amount": 42.5,
+      "category": "Food",
+      "description": "Grocery run at local market",
+      "paymentMethod": "Card"
+    },
+    {
+      "type": "expense",
+      "amount": 120,
+      "category": "Travel",
+      "description": "Uber to airport",
+      "paymentMethod": "Card"
+    },
+    {
+      "type": "expense",
+      "amount": 65,
+      "category": "Bills",
+      "description": "Internet subscription",
+      "paymentMethod": "Debit"
+    }
+  ]
+}
